@@ -35,8 +35,9 @@ end
   end 
   
   def find_a(array)
+    new_array=[]
 array.start_with?("a")
-
+new_array
 end 
   
   
