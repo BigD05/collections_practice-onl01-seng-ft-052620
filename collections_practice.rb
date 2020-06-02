@@ -42,7 +42,7 @@ end
   
   
   def sum_array(num)
-    num.inject?
+    num.inject(0){
   
   end 
   
