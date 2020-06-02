@@ -39,5 +39,6 @@ end
 if array.start_with?("a")
 new_array
 end 
+end 
   
   
